@@ -1,0 +1,30 @@
+body {
+    background: #000000;
+    color: #ffffff;
+    padding: 50px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+    border-bottom: 1px solid;
+    padding-bottom: 5px;
+
+}
+
+h2 {
+    font-size: 2.2em;
+}
+
+#hello {
+    color: red;
+}
+
+.burndown {
+    background-color: #424242;
+    padding: 10px;
+}
+
+#hal {
+    width: 100px;
+}
